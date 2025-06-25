@@ -1,0 +1,25 @@
+{
+  "name": "college-codespace-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass scss:dist/css --watch",
+    "build:sass": "sass scss:dist/css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raulsalvatestebaranz/College-CodeSpace-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raulsalvatestebaranz/College-CodeSpace-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Raulsalvatestebaranz/College-CodeSpace-Portfolio#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
